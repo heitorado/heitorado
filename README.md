@@ -17,10 +17,10 @@
 ---
 
 <span>
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=heitorado&count_private=true&show_icons=true&theme=synthwave&hide=issues" />
+  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=heitorado&count_private=true&show_icons=true&theme=synthwave&hide=issues" />
 </span>
 <span>
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorado&layout=compact&langs_count=6&theme=synthwave&hide=c,c%2B%2B,verilog,systemverilog,html,python,javascript,css,kotlin" />
+  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorado&layout=compact&langs_count=6&theme=synthwave&hide=c,c%2B%2B,verilog,systemverilog,html,python,javascript,css,kotlin" />
 </span>
 
 ---
