@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there, Heitorado here 👋
 
-<!--
-**heitorado/heitorado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as Ruby Backend Developer at @Guava
+- 🌱 I’m currently learning Ruby, Rails and a lot about Software Engineering and how to write good, modular and clean code. I believe I'll keep learning new things about those topics every day through my carreer.
+- 👯 I’m looking to collaborate on social impact projects
+- 🤔 I’m looking for help with front end development! Currently trying to set a path to start learning, I just know the very basics.
+- 💬 Ask me about:
+  - C
+  - Ruby / Rails
+  - Docker / Docker compose
+  - Intermediate Linux and Bash
+  - How my day was
+- 📫 How to reach me: My @ at Telegram is the same as my Github user :)
+- 😄 Pronouns: he/him, but honestly I'm comfortable with any
+- ⚡ Fun fact: I like making custom keyboards and sometimes I do my daily work reports using garden analogies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span>
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=heitorado&count_private=true&show_icons=true&theme=synthwave&hide=issues" />
+</span>
+<span>
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorado&layout=compact&langs_count=6&theme=synthwave&hide=c,c%2B%2B,verilog,systemverilog,html,python,javascript,css,kotlin" />
+</span>
+
+---
