@@ -1,6 +1,6 @@
 ### Hi there, Heitorado here 👋
 
-- 🔭 I’m currently working as Ruby Backend Developer at @VTEX
+- 🔭 I’m currently working as a TypeScript developer at @VTEX
 - 🌱 I’m currently learning Ruby, Rails and a lot about Software Engineering and how to write good, modular and clean code. I believe I'll keep learning new things about those topics every day through my carreer.
 - 👯 I’m looking to collaborate on social impact projects
 - 🤔 I’m looking for help with front end development! Currently trying to set a path to start learning, I just know the very basics.
@@ -17,10 +17,10 @@
 ---
 
 <span>
-  <img align="center" height="167" src="https://github-readme-stats.vercel.app/api?username=heitorado&count_private=true&show_icons=true&theme=synthwave&hide=issues" />
+  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=heitorado&count_private=true&show_icons=true&theme=synthwave&hide=issues" />
 </span>
 <span>
-  <img align="center" height="167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorado&layout=compact&langs_count=6&theme=synthwave&hide=c,c%2B%2B,verilog,systemverilog,html,python,javascript,css,kotlin" />
+  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorado&layout=compact&langs_count=6&theme=synthwave&hide=c,c%2B%2B,verilog,systemverilog,html,python,javascript,css,kotlin" />
 </span>
 
 ---
