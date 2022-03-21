@@ -1,7 +1,7 @@
 ### Hi there, Heitorado here 👋
 
 - 🔭 I’m currently working as a TypeScript developer at @VTEX
-- 🌱 I’m currently learning Ruby, Rails and a lot about Software Engineering and how to write good, modular and clean code. I believe I'll keep learning new things about those topics every day through my carreer.
+- 🌱 I’m currently learning TypeScript, React, CSS and fiddling with the Testing Framework/Cypress. On a more general/broad perspective, I'm exploring a lot about Software Engineering and how to write good, modular and clean code; as well as how to build performatic websites. I believe I'll keep learning new things about those topics every day through my carreer.
 - 👯 I’m looking to collaborate on social impact projects
 - 🤔 I’m looking for help with front end development! Currently trying to set a path to start learning, I just know the very basics.
 - 💬 Ask me about:
