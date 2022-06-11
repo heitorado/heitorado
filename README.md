@@ -1,14 +1,15 @@
 ### Hi there, Heitorado here 👋
 
-- 🔭 I’m currently working as a TypeScript developer at @VTEX
-- 🌱 I’m currently learning TypeScript, React, CSS and fiddling with the Testing Framework/Cypress. On a more general/broad perspective, I'm exploring a lot about Software Engineering and how to write good, modular and clean code; as well as how to build performatic websites. I believe I'll keep learning new things about those topics every day through my carreer.
+- 🔭 I’m currently looking for a job
+- 🌱 I’m currently learning JavaScript, TypeScript, React, Next.js, and a bit of Clojure.
 - 👯 I’m looking to collaborate on social impact projects
-- 🤔 I’m looking for help with front end development! Currently trying to set a path to start learning, I just know the very basics.
+- 🤔 I’m looking for help with front end development! Especially at styling.
 - 💬 Ask me about:
   - C
   - Ruby / Rails
   - Docker / Docker compose
   - Intermediate Linux and Bash
+  - TypeScript
   - How my day was
 - 📫 How to reach me: My @ at Telegram is the same as my Github user :)
 - 😄 Pronouns: he/him, but honestly I'm comfortable with any
