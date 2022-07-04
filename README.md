@@ -1,7 +1,7 @@
 ### Hi there, Heitorado here 👋
 
-- 🔭 I’m currently looking for a job
-- 🌱 I’m currently learning JavaScript, TypeScript, React, Next.js, and a bit of Clojure.
+- 🔭 I’m currently working at [Labcodes Software Studio](https://labcodes.com.br/)
+- 🌱 I’m currently learning JavaScript, TypeScript, React, Next.js, Python, Django and a bit of functional programming when I feel like it.
 - 👯 I’m looking to collaborate on social impact projects
 - 🤔 I’m looking for help with front end development! Especially at styling.
 - 💬 Ask me about:
@@ -13,7 +13,7 @@
   - How my day was
 - 📫 How to reach me: My @ at Telegram is the same as my Github user :)
 - 😄 Pronouns: he/him, but honestly I'm comfortable with any
-- ⚡ Fun fact: I like making custom keyboards and sometimes I do my daily work reports using garden analogies.
+- ⚡ Fun fact: I like making custom keyboards.
 
 ---
 
